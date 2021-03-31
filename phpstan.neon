@@ -1,0 +1,10 @@
+parameters:
+  level: 6
+  paths:
+    - web/modules/custom
+    - web/themes/custom
+    fileExtensions:
+      - php
+      - module
+      - inc
+      - theme

@@ -1,0 +1,6 @@
+prueba_phpstan.settings_form:
+  title: Prueba phpstan
+  description: Configure Prueba phpstan.
+  parent: system.admin_config_system
+  route_name: prueba_phpstan.settings_form
+  weight: 10
