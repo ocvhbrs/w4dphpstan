@@ -3,8 +3,8 @@ parameters:
   paths:
     - web/modules/custom
     - web/themes/custom
-    fileExtensions:
-      - php
-      - module
-      - inc
-      - theme
+  fileExtensions:
+    - php
+    - module
+    - inc
+    - theme
